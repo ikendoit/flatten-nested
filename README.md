@@ -12,7 +12,7 @@ I made this library in hope to be my first step to fix this problem. Once this i
 
 ## What this does
 
-Flatten Nested receives an array of ( dictionary**, JSON-leaf-type* ) and returns a flattened array with all dictionaries exploded.
+Flatten Nested receives an array of ( dictionary, JSON-leaf-type* ) and returns a flattened array with all dictionaries exploded.
 
 Check the (testing-assets/)[testing-assets/] to see input and output samples.
 
