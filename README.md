@@ -8,7 +8,7 @@ I am using a Grafana Plugin that can call GraphQL endpoints, get the JSON respon
 
 Unfortunately, the parsing algorithm of either that graphQL Plugin or Grafana Server gave me non-visualizable flatten array of <column:value>'s ( The arrays in response data are exploded with index value in key names, causing hundred of different columns  )
 
-I made this library in hope to be my first step to fix this problem. Once this is merged on Lodash, I will make a PR to that Plugin ( or Grafana source code, depending on where that original algorithm is located )
+I made this library in hope to be my first step to fix this problem. Once this is merged on Lodash, I will make a PR to that Plugin, or Grafana source code, depending on where that original algorithm is located, or I will implement a flatten-nested flag on the GraphQL server I maintain.
 
 ## What this does
 
