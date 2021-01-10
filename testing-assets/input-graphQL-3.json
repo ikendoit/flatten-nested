@@ -1,0 +1,80 @@
+{
+  "data": {
+    "queryName": {
+      "resolverName": [
+        {
+          "lnglat": "1, coordinate",
+          "altitude": -105,
+          "content": [
+            {
+              "stamp": "2111-09-05T07:00:00Z",
+              "value": {
+                "waterEnergy": 11.1,
+                "fireEnergy": 11.1,
+                "earthEnergy": 11.1,
+                "airEnergy": 11.1
+              }
+            },
+            {
+              "stamp": "2111-09-06T07:00:00Z",
+              "value": {
+                "waterEnergy": 11.2,
+                "fireEnergy": 11.2,
+                "earthEnergy": 11.2,
+                "airEnergy": 11.2
+              }
+            }
+          ]
+        },
+        {
+          "lnglat": "2, coordinate",
+          "altitude": -115,
+          "content": [
+            {
+              "stamp": "3222-08-05T07:00:00Z",
+              "value": {
+                "waterEnergy": 22.1,
+                "fireEnergy": 22.1,
+                "earthEnergy": 22.1,
+                "airEnergy": 22.1
+              }
+            },
+            {
+              "stamp": "3222-08-06T07:00:00Z",
+              "value": {
+                "waterEnergy": 22.2,
+                "fireEnergy": 22.2,
+                "earthEnergy": 22.2,
+                "airEnergy": 22.2
+              }
+            }
+          ]
+        },
+        {
+          "lnglat": "3, coordinate",
+          "altitude": -135,
+          "content": [
+            {
+              "stamp": "5020-08-05T07:00:00Z",
+              "value": {
+                "waterEnergy": 33.1,
+                "fireEnergy": 33.1,
+                "earthEnergy": 33.1,
+                "airEnergy": 33.1
+              }
+            },
+            {
+              "stamp": "5020-08-06T07:00:00Z",
+              "value": {
+                "waterEnergy": 33.2,
+                "fireEnergy": 33.2,
+                "earthEnergy": 33.2,
+                "airEnergy": 33.2
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "data.queryName.resolverName.lnglat": "1, coordinate",
+    "data.queryName.resolverName.altitude": -105,
+    "data.queryName.resolverName.content.stamp": "2111-09-05T07:00:00Z",
+    "data.queryName.resolverName.content.values": 1
+  },
+  {
+    "data.queryName.resolverName.lnglat": "1, coordinate",
+    "data.queryName.resolverName.altitude": -105,
+    "data.queryName.resolverName.content.stamp": "2111-09-05T07:00:00Z",
+    "data.queryName.resolverName.content.values": 1
+  },
+  {
+    "data.queryName.resolverName.lnglat": "1, coordinate",
+    "data.queryName.resolverName.altitude": -105,
+    "data.queryName.resolverName.content.stamp": "2111-09-05T07:00:00Z",
+    "data.queryName.resolverName.content.values": 1
+  },
+  {
+    "data.queryName.resolverName.lnglat": "1, coordinate",
+    "data.queryName.resolverName.altitude": -105,
+    "data.queryName.resolverName.content.stamp": "2111-09-06T07:00:00Z",
+    "data.queryName.resolverName.content.values": 12
+  },
+  {
+    "data.queryName.resolverName.lnglat": "1, coordinate",
+    "data.queryName.resolverName.altitude": -105,
+    "data.queryName.resolverName.content.stamp": "2111-09-06T07:00:00Z",
+    "data.queryName.resolverName.content.values": 12
+  },
+  {
+    "data.queryName.resolverName.lnglat": "1, coordinate",
+    "data.queryName.resolverName.altitude": -105,
+    "data.queryName.resolverName.content.stamp": "2111-09-06T07:00:00Z",
+    "data.queryName.resolverName.content.values": 12
+  },
+  {
+    "data.queryName.resolverName.lnglat": "2, coordinate",
+    "data.queryName.resolverName.altitude": -115,
+    "data.queryName.resolverName.content.stamp": "3222-08-05T07:00:00Z",
+    "data.queryName.resolverName.content.values": 2
+  },
+  {
+    "data.queryName.resolverName.lnglat": "2, coordinate",
+    "data.queryName.resolverName.altitude": -115,
+    "data.queryName.resolverName.content.stamp": "3222-08-05T07:00:00Z",
+    "data.queryName.resolverName.content.values": 2
+  },
+  {
+    "data.queryName.resolverName.lnglat": "2, coordinate",
+    "data.queryName.resolverName.altitude": -115,
+    "data.queryName.resolverName.content.stamp": "3222-08-05T07:00:00Z",
+    "data.queryName.resolverName.content.values": 2
+  },
+  {
+    "data.queryName.resolverName.lnglat": "2, coordinate",
+    "data.queryName.resolverName.altitude": -115,
+    "data.queryName.resolverName.content.stamp": "3222-08-06T07:00:00Z",
+    "data.queryName.resolverName.content.values": 22
+  },
+  {
+    "data.queryName.resolverName.lnglat": "2, coordinate",
+    "data.queryName.resolverName.altitude": -115,
+    "data.queryName.resolverName.content.stamp": "3222-08-06T07:00:00Z",
+    "data.queryName.resolverName.content.values": 22
+  },
+  {
+    "data.queryName.resolverName.lnglat": "2, coordinate",
+    "data.queryName.resolverName.altitude": -115,
+    "data.queryName.resolverName.content.stamp": "3222-08-06T07:00:00Z",
+    "data.queryName.resolverName.content.values": 22
+  },
+  {
+    "data.queryName.resolverName.lnglat": "3, coordinate",
+    "data.queryName.resolverName.altitude": -135,
+    "data.queryName.resolverName.content.stamp": "5020-08-05T07:00:00Z",
+    "data.queryName.resolverName.content.values": 3
+  },
+  {
+    "data.queryName.resolverName.lnglat": "3, coordinate",
+    "data.queryName.resolverName.altitude": -135,
+    "data.queryName.resolverName.content.stamp": "5020-08-05T07:00:00Z",
+    "data.queryName.resolverName.content.values": 3
+  },
+  {
+    "data.queryName.resolverName.lnglat": "3, coordinate",
+    "data.queryName.resolverName.altitude": -135,
+    "data.queryName.resolverName.content.stamp": "5020-08-05T07:00:00Z",
+    "data.queryName.resolverName.content.values": 3
+  },
+  {
+    "data.queryName.resolverName.lnglat": "3, coordinate",
+    "data.queryName.resolverName.altitude": -135,
+    "data.queryName.resolverName.content.stamp": "5020-08-06T07:00:00Z",
+    "data.queryName.resolverName.content.values": 32
+  },
+  {
+    "data.queryName.resolverName.lnglat": "3, coordinate",
+    "data.queryName.resolverName.altitude": -135,
+    "data.queryName.resolverName.content.stamp": "5020-08-06T07:00:00Z",
+    "data.queryName.resolverName.content.values": 32
+  },
+  {
+    "data.queryName.resolverName.lnglat": "3, coordinate",
+    "data.queryName.resolverName.altitude": -135,
+    "data.queryName.resolverName.content.stamp": "5020-08-06T07:00:00Z",
+    "data.queryName.resolverName.content.values": 32
+  }
+]

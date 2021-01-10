@@ -1,0 +1,56 @@
+[
+  {
+    "data.queryName.resolverName.lnglat": "1, coordinate",
+    "data.queryName.resolverName.altitude": -105,
+    "data.queryName.resolverName.content.stamp": "2111-09-05T07:00:00Z",
+    "data.queryName.resolverName.content.value.waterEnergy": 11.1,
+    "data.queryName.resolverName.content.value.fireEnergy": 11.1,
+    "data.queryName.resolverName.content.value.earthEnergy": 11.1,
+    "data.queryName.resolverName.content.value.airEnergy": 11.1
+  },
+  {
+    "data.queryName.resolverName.lnglat": "1, coordinate",
+    "data.queryName.resolverName.altitude": -105,
+    "data.queryName.resolverName.content.stamp": "2111-09-06T07:00:00Z",
+    "data.queryName.resolverName.content.value.waterEnergy": 11.2,
+    "data.queryName.resolverName.content.value.fireEnergy": 11.2,
+    "data.queryName.resolverName.content.value.earthEnergy": 11.2,
+    "data.queryName.resolverName.content.value.airEnergy": 11.2
+  },
+  {
+    "data.queryName.resolverName.lnglat": "2, coordinate",
+    "data.queryName.resolverName.altitude": -115,
+    "data.queryName.resolverName.content.stamp": "3222-08-05T07:00:00Z",
+    "data.queryName.resolverName.content.value.waterEnergy": 22.1,
+    "data.queryName.resolverName.content.value.fireEnergy": 22.1,
+    "data.queryName.resolverName.content.value.earthEnergy": 22.1,
+    "data.queryName.resolverName.content.value.airEnergy": 22.1
+  },
+  {
+    "data.queryName.resolverName.lnglat": "2, coordinate",
+    "data.queryName.resolverName.altitude": -115,
+    "data.queryName.resolverName.content.stamp": "3222-08-06T07:00:00Z",
+    "data.queryName.resolverName.content.value.waterEnergy": 22.2,
+    "data.queryName.resolverName.content.value.fireEnergy": 22.2,
+    "data.queryName.resolverName.content.value.earthEnergy": 22.2,
+    "data.queryName.resolverName.content.value.airEnergy": 22.2
+  },
+  {
+    "data.queryName.resolverName.lnglat": "3, coordinate",
+    "data.queryName.resolverName.altitude": -135,
+    "data.queryName.resolverName.content.stamp": "5020-08-05T07:00:00Z",
+    "data.queryName.resolverName.content.value.waterEnergy": 33.1,
+    "data.queryName.resolverName.content.value.fireEnergy": 33.1,
+    "data.queryName.resolverName.content.value.earthEnergy": 33.1,
+    "data.queryName.resolverName.content.value.airEnergy": 33.1
+  },
+  {
+    "data.queryName.resolverName.lnglat": "3, coordinate",
+    "data.queryName.resolverName.altitude": -135,
+    "data.queryName.resolverName.content.stamp": "5020-08-06T07:00:00Z",
+    "data.queryName.resolverName.content.value.waterEnergy": 33.2,
+    "data.queryName.resolverName.content.value.fireEnergy": 33.2,
+    "data.queryName.resolverName.content.value.earthEnergy": 33.2,
+    "data.queryName.resolverName.content.value.airEnergy": 33.2
+  }
+]

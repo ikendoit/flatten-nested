@@ -1,0 +1,50 @@
+{
+  "data": {
+    "queryName": {
+      "resolverName": [
+        {
+          "lnglat": "1, coordinate",
+          "altitude": -105,
+          "content": [
+            {
+              "stamp": "2111-09-05T07:00:00Z",
+              "values": [1, 1, 1]
+            },
+            {
+              "stamp": "2111-09-06T07:00:00Z",
+              "values": [12, 12, 12]
+            }
+          ]
+        },
+        {
+          "lnglat": "2, coordinate",
+          "altitude": -115,
+          "content": [
+            {
+              "stamp": "3222-08-05T07:00:00Z",
+              "values": [2, 2, 2]
+            },
+            {
+              "stamp": "3222-08-06T07:00:00Z",
+              "values": [22, 22, 22]
+            }
+          ]
+        },
+        {
+          "lnglat": "3, coordinate",
+          "altitude": -135,
+          "content": [
+            {
+              "stamp": "5020-08-05T07:00:00Z",
+              "values": [3, 3, 3]
+            },
+            {
+              "stamp": "5020-08-06T07:00:00Z",
+              "values": [32, 32, 32]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
