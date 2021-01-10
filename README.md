@@ -28,3 +28,6 @@ npm coming soon, or to be appeared on a future version of Lodash.
 ## References:
 
 The Grafana Plugin that visualizes data from GraphQL servers: https://github.com/fifemon/graphql-datasource
+
+Indeed, grafana is using "flat" package: https://github.com/grafana/grafana/blob/e03da3760efc9be99c6808fd67c6a3e09ee1f2a5/public/app/core/utils/flatten.ts
+Thus the behavior of including numerical index in keyNames.
